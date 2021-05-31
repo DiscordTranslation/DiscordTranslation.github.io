@@ -10,10 +10,8 @@ phone: +81 10 2126 4327
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: Invite, link: 'https://discord.com/oauth2/authorize?client_id=825607802919321640&permissions=8&scope=applications.commands%20bot'}
+- {name: Support, link: 'https://discord.gg/KM7SJkXN9n'}
 
 
 #-------------------------------
