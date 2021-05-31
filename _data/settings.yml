@@ -118,26 +118,15 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: 주 서비스
+services-title: 번역봇 사진
 services:
 - {
-    name: UI Design,
+    name: 번역,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    description: '키위새#5278 님이 번역봇 사진을 그려주셨습니다.[인스타그램](https://www.instagram.com/k1wi_bird/)',
     active: # Add true to select section
   }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
-  }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
+
 
 #-------------------------------
 # Portfolio (Section and Page)
