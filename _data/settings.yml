@@ -113,7 +113,7 @@ education-title: 업적
 education:
 - {name: 번역봇 봇 개설, date: '2021', organization: '번역봇을 최초로 3월 28일에 개설을 하였습니다.'}
 - {name: 한국 디스코드 봇 리스트 봇 추가, date: '2021', organization: '번역봇을 한디리에 4월1일에 추가했습니다.'}
-- {name: 디스코드 verifycation, date: '2021', organization: '2021/4/27 에 디스코드 공식 인증을 받았습니다.'}
+- {name: 디스코드 verification, date: '2021', organization: '2021/4/27 에 디스코드 공식 인증을 받았습니다.'}
 
 
 
