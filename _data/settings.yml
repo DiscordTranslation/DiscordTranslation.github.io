@@ -34,8 +34,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 안녕하세요! 디스코드 봇
-  번역봇 사이트 입니다!
+  hero-title: 안녕하세요! 디스코드 봇 번역봇 사이트 입니다!
 
 social:
 - {icon: "ti-Discord", link: "https://discord.gg/KM7SJkXN9n"}
