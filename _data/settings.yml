@@ -230,7 +230,7 @@ services:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-home-items:
+로고-home-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "#"
 
