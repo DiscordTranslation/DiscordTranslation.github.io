@@ -49,8 +49,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  번역봇이란, 디스코드 봇을 말하며 현재 서버수는 대략 190서버이고, 기능은 번역, 노래, 주식, 도박, 롤전적, 배틀그라운드전적, 투표, eval, 말하기 등을 가졌습니다.
 blurb-btn-link: '/about'
 blurb-btn-name: know more
 
@@ -90,22 +89,22 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: 번역봇
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
+- {name: Python, color: '#fdb157', value: '100%'}
 - {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: People's help, color: '#bdecf6', value: '40%'}
+- {name: VScode, color: '#ffbcaa', value: '30%'}
 
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: 번역봇 성장
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: 번역봇 최초 등록, icon: 'icon-1.png', date: 'Mar 2021 -  Present', organization: 'Discord'}
+- {name: 번역봇 한디리, icon: 'icon-2.png', date: 'Mar 2021 -  Present', organization: 'koreanbots.dev'}
+- {name: UI디자인, icon: 'icon-3.png', date: 'Apr 2021 - Present', organization: 'THEMEFISHER'}
 
 
 #-------------------------------
@@ -157,12 +156,6 @@ portfolio-home-items:
     url: "#"
     
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
-    
-  - image : "assets/images/portfolio/item-5.png"
     url: "#"
 
 
@@ -231,27 +224,6 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
 
-
-#-------------------------------
-# Testimonials Section
-
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-
 #-------------------------------
 # Client Slider Section
 
@@ -285,9 +257,3 @@ client-slider-items:
     
   - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "#"
-
-#-------------------------------
-# Contact Section
-
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
