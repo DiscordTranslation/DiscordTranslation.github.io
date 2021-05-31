@@ -127,6 +127,17 @@ services:
     active: # Add true to select section
   }
 - {
+    name: ㅂ전적도움말,
+    description: '번역봇 게임 전적에 대한 명령어 도움말이 나옵니다.',
+    active: # Add true to select section
+  }
+- {
+    name: 번역아 도움말 자가진단,
+    description: '자가진단에 대한 도움말이 나옵니다.',
+    active: # Add true to select section
+  }
+  
+- {
     name: ㅂ내정보,
     description: '자신의 디스코드 정보를 불러옵니다.',
     active: # Add true to select section
@@ -161,6 +172,57 @@ services:
     description: 'ㅂ사연 할말 을 하시면 번역봇의 서포트에 사연이 전송됩니다.',
     active: # Add true to select section
   }
+- {
+    name: ㅂp 제목,
+    description: '노래를 들려줍니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂs, ㅂ스킵,
+    description: '노래가 스킵됩니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂnp,
+    description: '현재 노래 정보를 보여줍니다..',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ가위, 바위, 보,
+    description: '번역봇과 가위바위보 게임을 할수 있습니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ청소 n,
+    description: 'n개를 지워줍니다.(관리자권한 필수)',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ더하기, 곱하기, 나누기,
+    description: '계산을 해줍니다.예)ㅂ더하기 1 1',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ코로나,
+    description: '한국 코로나 현황에 대한 내용이 나옵니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ한영, 영한, 한일, 일한번역...등등,
+    description: '번역을 해줍니다.(자세한설명은 ㅂ도움말)',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ주식 회사이름,
+    description: '주식에 대한 내용이 나옵니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ롤전적 <닉네임>,
+    description: '롤전적이 나옵니다.',
+    active: # Add true to select section
+  }
+
 
 
 #-------------------------------
