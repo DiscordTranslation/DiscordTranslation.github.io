@@ -2,9 +2,9 @@
 # General Site Settings
 
 title: 번역봇
-logo: 
+logo: "assets/images/team/member-1.png"
 author: themefisher
-description: this is meta description
+description: 디스코드 공식 봇 번역봇 입니다!
 email: msck_korea@kakao.com, leonardo210328@gmail.com
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 번역봇 개발자: Park Seo Jun
