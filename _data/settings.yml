@@ -119,12 +119,11 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: 번역봇 사진
+services-title: 번역봇 명령어
 services:
 - {
-    name: 번역봇 사진,
-    icon: ti-palette,
-    description: '키위새#5278 님이 번역봇 사진을 그려주셨습니다.',
+    name: ㅂ도움말,
+    description: '번역봇에 대한 명령어 도움말이 나옵니다.',
     active: # Add true to select section
   }
 
