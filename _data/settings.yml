@@ -41,10 +41,8 @@ hero:
   hero-title: 안녕하세요! 디스코드 봇 번역봇 사이트 입니다!
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-Discord", link: "https://discord.gg/KM7SJkXN9n"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/discord_translation/"}
 
 
 #-------------------------------
