@@ -50,8 +50,8 @@ social:
 # About Section
 blurb:
   번역봇이란, 디스코드 봇을 말하며 현재 서버수는 대략 190서버이고, 기능은 번역, 노래, 주식, 도박, 롤전적, 배틀그라운드전적, 투표, eval, 말하기 등을 가졌습니다.
-blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-link: 'https://discord.com/oauth2/authorize?client_id=825607802919321640&permissions=8&scope=applications.commands%20bot'
+blurb-btn-name: 내 서버에 번역봇 초대하기
 
 
 # About Page
