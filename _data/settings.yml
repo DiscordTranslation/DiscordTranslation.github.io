@@ -6,8 +6,8 @@ logo:
 author: themefisher
 description: 디스코드 공식 봇 번역봇 입니다!
 email: msck_korea@kakao.com, leonardo210328@gmail.com
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 번역봇 개발자: Park Seo Jun
+copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: Invite, link: 'https://discord.com/oauth2/authorize?client_id=825607802919321640&permissions=8&scope=applications.commands%20bot'}
