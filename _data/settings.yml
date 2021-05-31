@@ -11,6 +11,7 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 menu:
 - {name: Invite, link: 'https://discord.com/oauth2/authorize?client_id=825607802919321640&permissions=8&scope=applications.commands%20bot'}
 - {name: Support, link: 'https://discord.gg/KM7SJkXN9n'}
+- {name: 번역봇 명령어, link: '/commands'}
 
 
 #-------------------------------
