@@ -140,3 +140,16 @@ services:
     active: # Add true to select section
   }
 
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+
+  - image : "assets/images/portfolio/item-2.png"
+    url: "#"
+
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
