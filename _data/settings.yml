@@ -126,6 +126,41 @@ services:
     description: '번역봇에 대한 명령어 도움말이 나옵니다.',
     active: # Add true to select section
   }
+- {
+    name: ㅂ내정보,
+    description: '자신의 디스코드 정보를 불러옵니다.',
+    active: # Add true to select section
+  }  
+- {
+    name: 번역아, 번역아 뭐해,
+    description: '번역봇이랑 이야기를 나눌수 있습니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ초대링크,
+    description: '번역봇의 초대링크를 얻을수 있습니다..',
+    active: # Add true to select section
+  }  
+- {
+    name: ㅂ지원서버,
+    description: '번역봇의 서포트서버가 나옵니다.',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ로고,
+    description: '번역봇의 로고가 나옵니다..',
+    active: # Add true to select section
+  }  
+- {
+    name: ㅂ타이머,
+    description: 'ㅂ타이머 n 을 하시면 타이머가 시작됩니다.(n은 초단위입니다.)',
+    active: # Add true to select section
+  }
+- {
+    name: ㅂ사연,
+    description: 'ㅂ사연 할말 을 하시면 번역봇의 서포트에 사연이 전송됩니다.',
+    active: # Add true to select section
+  }
 
 
 #-------------------------------
